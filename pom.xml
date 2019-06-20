@@ -22,7 +22,7 @@
 	<distributionManagement>
 		<repository>
 				<id>hosted</id>
-				<url>https://192.168.237.1:8443/repository/siemenshosted/</url>
+				<url>https://example:8443/repository/siemenshosted/</url>
 		</repository>
 	</distributionManagement>
 	
